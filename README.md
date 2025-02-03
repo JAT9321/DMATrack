@@ -1,1 +1,1 @@
-# RGBT-Tracking-via-Dynamic-Multimodal-Attention
+# RGBT Tracking via Dynamic Multimodal Attention
