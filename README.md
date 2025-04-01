@@ -1,7 +1,10 @@
 # RGBT Tracking via Dynamic Multimodal Attention
+
 # Model Framework
-![DMATrack](https://github.com/user-attachments/assets/1fa191f6-e80a-4336-9256-79eb694a7537)
+![image](https://github.com/user-attachments/assets/961cb4b9-a3ab-4a19-a066-c4cdbf0eb8c1)
 
 # DMA Module
-![DMA](https://github.com/user-attachments/assets/5e64cb59-a5be-4f35-a182-ad3c02edf913)
+![image](https://github.com/user-attachments/assets/e01ce447-e0a9-4511-81e2-1f56ba21c290)
+
+
 
